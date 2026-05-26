@@ -12,6 +12,5 @@ function multiply(a, b) {
   return a * b;
 }
 
-var a = = 10
 module.exports = { add, subtract, multiply };
 
