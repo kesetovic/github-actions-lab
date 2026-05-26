@@ -1,0 +1,27 @@
+{
+  "name": "github-actions-lab",
+  "version": "1.0.0",
+  "description": "Github Actions lab. Ovaj projekat koristi GitHub Actions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint src/**"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kesetovic/github-actions-lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kesetovic/github-actions-lab/issues"
+  },
+  "homepage": "https://github.com/kesetovic/github-actions-lab#readme",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.4.0",
+    "globals": "^17.6.0",
+    "jest": "^30.4.2"
+  }
+}
